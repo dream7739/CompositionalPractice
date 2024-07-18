@@ -14,6 +14,9 @@
 		8866E96A2C49337500569E17 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 8866E9692C49337500569E17 /* Base */; };
 		8866E9732C49362D00569E17 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 8866E9722C49362D00569E17 /* SnapKit */; };
 		8866E9752C4942FE00569E17 /* TitleSupplementaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8866E9742C4942FE00569E17 /* TitleSupplementaryView.swift */; };
+		8866E9772C4947E300569E17 /* TravelTalkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8866E9762C4947E300569E17 /* TravelTalkViewController.swift */; };
+		8866E9792C494AA400569E17 /* ChattingData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8866E9782C494AA400569E17 /* ChattingData.swift */; };
+		8866E97B2C494B7900569E17 /* CompositionalTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8866E97A2C494B7900569E17 /* CompositionalTabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +28,9 @@
 		8866E9692C49337500569E17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8866E96B2C49337500569E17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8866E9742C4942FE00569E17 /* TitleSupplementaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleSupplementaryView.swift; sourceTree = "<group>"; };
+		8866E9762C4947E300569E17 /* TravelTalkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelTalkViewController.swift; sourceTree = "<group>"; };
+		8866E9782C494AA400569E17 /* ChattingData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChattingData.swift; sourceTree = "<group>"; };
+		8866E97A2C494B7900569E17 /* CompositionalTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompositionalTabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +71,9 @@
 				8866E9682C49337500569E17 /* LaunchScreen.storyboard */,
 				8866E96B2C49337500569E17 /* Info.plist */,
 				8866E9742C4942FE00569E17 /* TitleSupplementaryView.swift */,
+				8866E9762C4947E300569E17 /* TravelTalkViewController.swift */,
+				8866E9782C494AA400569E17 /* ChattingData.swift */,
+				8866E97A2C494B7900569E17 /* CompositionalTabBar.swift */,
 			);
 			path = CompositionalPractice;
 			sourceTree = "<group>";
@@ -146,7 +155,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				8866E9622C49337400569E17 /* SettingViewController.swift in Sources */,
+				8866E9792C494AA400569E17 /* ChattingData.swift in Sources */,
 				8866E95E2C49337400569E17 /* AppDelegate.swift in Sources */,
+				8866E97B2C494B7900569E17 /* CompositionalTabBar.swift in Sources */,
+				8866E9772C4947E300569E17 /* TravelTalkViewController.swift in Sources */,
 				8866E9752C4942FE00569E17 /* TitleSupplementaryView.swift in Sources */,
 				8866E9602C49337400569E17 /* SceneDelegate.swift in Sources */,
 			);
